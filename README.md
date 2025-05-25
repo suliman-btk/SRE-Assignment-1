@@ -5,7 +5,7 @@ The repository is organized into five main directories as follows:
 1. `SRS/`  
    This directory contains the final Software Requirements Specification (SRS) document. It includes all finalized tables, diagrams, version history, and detailed project requirements compiled into a single comprehensive file.
 
-2. `TeamFormationAndProjectPreliminary/`  
+2. `Team_Formation_and_Project_Preliminary/`  
     This folder includes the document for Team Formation and Project Preliminary. Both parts were combined into one file as they were completed in a single meeting session.
 
 3. `ContextObjects/`  
